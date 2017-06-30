@@ -1,0 +1,25 @@
+body {
+	padding: 0;
+}
+header.container-fluid {
+	padding: 0;
+}
+.box-menu {
+	background-color: black;
+	height: 60px;
+	width: 100%;
+}
+.content {
+	background-color: grey;
+	height: 300px;
+	width: 100%;
+
+}
+.History {
+	background-color: blue;
+	height: 400px;
+}
+.Story {
+	background-color: yellow;
+	height: 400px;
+}
