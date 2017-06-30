@@ -1,5 +1,7 @@
+/* General */
 body {
 	padding: 0;
+	margin: 0 auto;
 }
 header.container-fluid {
 	padding: 0;
@@ -12,17 +14,23 @@ header.container-fluid {
 .content {
 	background-color: grey;
 	width: 100%;
+	padding: 20px;
 
 }
+.centerBox {
+	padding: 20px;
+}
+
+/* index specific style */
 .History {
 	background-color: blue;
-	height: 400px;
+	height: 400px; 
 }
 .Story {
 	background-color: yellow;
-	height: 400px;
+	height: 400px; 
 }
-
+ /* technicalSpec specific style */
 .sinopsis {
 	background-color: white;
 	height: 400px;
@@ -31,25 +39,25 @@ header.container-fluid {
 .imgPoster {
 	background-color: white;
 	border: 1px black solid;
-
 	height: 400px;
 }
-.centerBox {
-	padding: 20px;
-}
 
-footer {
-    bottom: 0px;
-    width: 100%;
-    background-color: black;
-}
-
-.pie {
-    list-style: none;
-    display: inline-flex;
-    color: white;
-}
-
+/* buyTickets specific style */
 li.avisos  {
 	margin-right: 40px;
 }
+.form {
+	padding: 20px;
+	background-color: pink;
+}
+/* footer {
+	position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: black;
+} */
+/* .pie {
+    list-style: none;
+    display: inline-flex;
+    color: white;
+} */
