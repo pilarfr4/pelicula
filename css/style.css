@@ -3,7 +3,6 @@ body {
 	padding: 0;
 	margin: 0 auto;
 	font-family: tahoma;
-	background-image: url("../images/fondo.jpg");
 
 }
 
@@ -22,7 +21,7 @@ header.container-fluid {
 .content {
 	width: 100%;
 	padding: 20px;
-
+	background-image: url("../images/fondo.jpg");
 }
 .centerBox {
 	padding: 20px;
@@ -47,6 +46,14 @@ header.container-fluid {
 	background-color: white;
 	border: 1px black solid;
 	height: 400px;
+}
+.img-barco {
+	width: 700px;
+	height: 400px;
+	opacity: 1;
+}
+.reparto {
+	height: 300px;
 }
 
 /* buyTickets specific style */
