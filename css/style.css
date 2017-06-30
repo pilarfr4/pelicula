@@ -63,9 +63,19 @@ img.card-img-top {
 li.avisos  {
 	margin-right: 40px;
 }
+
 .form {
 	padding: 20px;
 	background-color: pink;
+	background-color: white;
+}
+
+.ComprarEntradas {
+	font-size: 23px;
+}
+
+.fecha {
+	width: 250px;
 }
 /* footer {
 	position: absolute;
