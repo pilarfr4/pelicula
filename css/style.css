@@ -11,7 +11,6 @@ header.container-fluid {
 }
 .content {
 	background-color: grey;
-	height: 300px;
 	width: 100%;
 
 }
@@ -22,4 +21,35 @@ header.container-fluid {
 .Story {
 	background-color: yellow;
 	height: 400px;
+}
+
+.sinopsis {
+	background-color: white;
+	height: 400px;
+}
+
+.imgPoster {
+	background-color: white;
+	border: 1px black solid;
+
+	height: 400px;
+}
+.centerBox {
+	padding: 20px;
+}
+
+footer {
+    bottom: 0px;
+    width: 100%;
+    background-color: black;
+}
+
+.pie {
+    list-style: none;
+    display: inline-flex;
+    color: white;
+}
+
+li.avisos  {
+	margin-right: 40px;
 }
