@@ -20,7 +20,7 @@ header.container-fluid {
 .content {
 	width: 100%;
 	padding: 20px;
-	background-image: url("../images/fondo.jpg");
+	/* background-image: url("../images/fondo.jpg"); */
 }
 .centerBox {
 	padding: 20px;
@@ -29,7 +29,7 @@ header.container-fluid {
 /* index specific style */
 .History {
 	background-color: white;
-	opacity: 0.5; 
+	/* opacity: 0.5; */ 
 }
 .Story {
 	background-color: yellow;
